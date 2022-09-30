@@ -1,0 +1,10 @@
+README.md
+setup.py
+games.egg-info/PKG-INFO
+games.egg-info/SOURCES.txt
+games.egg-info/dependency_links.txt
+games.egg-info/requires.txt
+games.egg-info/top_level.txt
+relaxing_games/__init__.py
+relaxing_games/checking_sudoku.py
+relaxing_games/games_3_in_one.py
